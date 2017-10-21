@@ -1,0 +1,2 @@
+name, age, sex, heart rate, o2 saturation, weight, height, temperature, symptoms
+Dylan, 13, M, 64, 98, 45.4, 1.60, 38.9, fever cough visible growth
